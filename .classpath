@@ -38,5 +38,6 @@
 	<classpathentry kind="lib" path="/roll-library/lib/automaton.jar"/>
 	<classpathentry kind="lib" path="/roll-library/lib/rabit.jar"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="/roll-library/lib/jhoafparser-1.1.1.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
